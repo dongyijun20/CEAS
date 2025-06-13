@@ -14,6 +14,7 @@ In this project, we constructed the **first single-cell transcriptomic map of CE
 
 These findings identify endothelial dysfunction as a key driver of CEAS and suggest novel therapeutic avenues.
 
+![Uploading CEAS graphical abstract.png…]()
 
 ---
 
